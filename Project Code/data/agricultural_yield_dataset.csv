@@ -1,0 +1,405 @@
+Crop_Year,State_Name,Crop,Season,Area_Hectares,Production_Tonnes,Yield_Ton_Ha,Annual_Rainfall_mm,Avg_Temperature_C,Soil_Type,Fertilizer_Usage_kg
+2019,Madhya Pradesh,Soybean,Kharif,1946.9,4069.0,2.09,572.0,27.9,Red,129.8
+2017,Maharashtra,Barley,Rabi,171.7,403.5,2.35,1215.6,33.4,Laterite,34.6
+2023,Gujarat,Cotton,Whole Year,380.4,833.1,2.19,1489.9,28.3,Red,124.3
+2023,Haryana,Soybean,Summer,1512.4,2540.8,1.68,343.3,31.5,Alluvial,147.3
+2015,Tamil Nadu,Groundnut,Whole Year,1358.0,3001.2,2.21,991.5,23.3,Alluvial,71.8
+2023,Tamil Nadu,Sugarcane,Rabi,838.2,59000.9,70.39,1034.6,27.3,Black,116.0
+2020,Tamil Nadu,Wheat,Kharif,216.2,858.3,3.97,935.9,18.6,Black,131.3
+2023,Punjab,Soybean,Summer,4011.6,9587.7,2.39,1009.1,22.4,Alluvial,136.7
+2019,Punjab,Wheat,Summer,1744.6,7798.4,4.47,625.9,26.0,Alluvial,171.4
+2014,Gujarat,Cotton,Rabi,1335.8,2631.5,1.97,590.5,26.2,Red,154.1
+2020,Karnataka,Soybean,Whole Year,3491.6,6215.0,1.78,696.3,28.0,Red,71.7
+2016,Madhya Pradesh,Rice,Kharif,220.2,669.4,3.04,716.4,19.8,Laterite,92.4
+2013,Uttar Pradesh,Maize,Rabi,469.7,1136.7,2.42,483.3,30.5,Laterite,116.3
+2021,Karnataka,Cotton,Rabi,1664.9,2913.6,1.75,768.1,22.6,Red,111.0
+2014,Madhya Pradesh,Rice,Kharif,291.5,929.9,3.19,851.3,25.4,Alluvial,70.5
+2017,Gujarat,Cotton,Whole Year,539.4,873.8,1.62,925.3,19.9,Red,96.8
+2014,Karnataka,Cotton,Whole Year,1147.8,1813.5,1.58,581.9,22.0,Black,123.6
+2012,Tamil Nadu,Barley,Kharif,515.7,1469.7,2.85,706.3,24.6,Alluvial,131.9
+2012,Tamil Nadu,Cotton,Whole Year,1251.1,2352.1,1.88,649.5,32.7,Red,169.2
+2023,Gujarat,Groundnut,Kharif,473.2,1372.3,2.9,1333.5,26.9,Alluvial,105.4
+2015,Uttar Pradesh,Wheat,Whole Year,4240.5,16325.9,3.85,584.4,28.6,Red,87.8
+2020,Uttar Pradesh,Rice,Summer,388.5,1231.5,3.17,901.4,20.0,Alluvial,84.0
+2012,Punjab,Groundnut,Summer,744.4,1712.1,2.3,768.9,25.6,Laterite,69.6
+2019,Gujarat,Groundnut,Whole Year,1403.7,4197.1,2.99,1080.2,25.5,Laterite,142.9
+2020,Karnataka,Groundnut,Kharif,1968.1,5097.4,2.59,1316.4,28.6,Red,78.3
+2019,Karnataka,Rice,Kharif,247.5,1086.5,4.39,1090.8,28.4,Laterite,148.8
+2014,Karnataka,Maize,Whole Year,1390.2,4434.7,3.19,919.2,30.2,Loamy,120.5
+2014,Punjab,Groundnut,Kharif,3324.7,7680.1,2.31,1220.0,28.3,Laterite,57.6
+2012,Punjab,Cotton,Kharif,568.9,972.8,1.71,1379.7,33.5,Loamy,86.8
+2021,Gujarat,Maize,Rabi,1531.8,4442.2,2.9,893.3,28.2,Alluvial,89.1
+2021,Tamil Nadu,Barley,Rabi,768.2,2519.7,3.28,939.4,29.0,Red,157.9
+2014,Haryana,Sugarcane,Whole Year,210.4,12413.6,59.0,1014.2,20.0,Black,78.6
+2014,Gujarat,Barley,Rabi,154.9,354.7,2.29,561.9,19.7,Laterite,125.8
+2017,Haryana,Rice,Whole Year,1208.0,3901.8,3.23,746.4,26.9,Loamy,88.7
+2016,Madhya Pradesh,Sugarcane,Summer,1903.5,135167.5,71.01,1152.6,25.8,Laterite,106.9
+2013,Madhya Pradesh,Groundnut,Summer,967.0,1982.3,2.05,343.7,27.3,Loamy,96.8
+2016,Haryana,Soybean,Kharif,3801.4,7716.8,2.03,816.1,22.9,Black,107.1
+2019,Haryana,Soybean,Summer,958.2,2424.2,2.53,896.0,29.1,Alluvial,194.7
+2021,Tamil Nadu,Sugarcane,Whole Year,1064.2,81602.9,76.68,1166.7,23.3,Laterite,135.5
+2018,Haryana,Wheat,Summer,4568.2,15714.6,3.44,729.7,17.1,Loamy,105.3
+2021,Haryana,Cotton,Summer,1535.1,3223.7,2.1,850.5,29.9,Black,187.7
+2023,Tamil Nadu,Groundnut,Rabi,1646.2,3868.6,2.35,1011.8,27.1,Alluvial,53.6
+2016,Maharashtra,Rice,Whole Year,580.2,2088.7,3.6,1134.3,28.5,Red,79.9
+2014,Tamil Nadu,Cotton,Rabi,1816.7,2743.2,1.51,464.1,31.5,Black,79.6
+2018,Haryana,Barley,Whole Year,2092.4,6632.9,3.17,939.3,23.4,Alluvial,151.5
+2021,Maharashtra,Sugarcane,Kharif,304.9,23306.6,76.44,1269.6,18.1,Laterite,176.4
+2023,Tamil Nadu,Rice,Summer,3592.7,14334.9,3.99,1238.2,24.5,Loamy,105.7
+2017,Madhya Pradesh,Barley,Summer,4812.9,13620.5,2.83,702.6,25.2,Alluvial,105.6
+2021,Gujarat,Soybean,Summer,1774.5,2537.5,1.43,645.4,35.9,Red,84.8
+2018,Maharashtra,Cotton,Whole Year,973.8,1684.7,1.73,846.9,22.5,Alluvial,122.7
+2013,Maharashtra,Soybean,Whole Year,477.7,1084.4,2.27,872.5,26.9,Red,111.0
+2013,Haryana,Rice,Whole Year,230.8,909.4,3.94,1138.6,24.4,Black,96.8
+2021,Madhya Pradesh,Sugarcane,Rabi,289.7,18274.3,63.08,774.4,26.5,Red,96.1
+2014,Tamil Nadu,Sugarcane,Kharif,3144.3,190733.2,60.66,973.2,26.9,Alluvial,69.4
+2023,Maharashtra,Barley,Rabi,3978.3,11099.5,2.79,861.4,28.3,Black,110.6
+2014,Maharashtra,Cotton,Summer,1009.2,2159.7,2.14,856.1,28.7,,170.8
+2018,Karnataka,Sugarcane,Rabi,1034.6,72628.9,70.2,,22.9,Red,90.6
+2023,Madhya Pradesh,Wheat,Rabi,592.3,2126.4,3.59,518.6,23.0,Laterite,102.7
+2014,Madhya Pradesh,Sugarcane,Kharif,3115.6,207405.5,66.57,1035.5,33.1,Laterite,144.5
+2017,Maharashtra,Sugarcane,Whole Year,2868.9,190724.5,66.48,923.9,21.6,Alluvial,131.9
+2014,Punjab,Sugarcane,Rabi,3765.6,293754.5,78.01,904.7,24.3,Alluvial,177.4
+2021,Maharashtra,Soybean,Kharif,4720.3,8590.9,1.82,737.5,29.3,Loamy,82.6
+2012,Madhya Pradesh,Sugarcane,Rabi,2642.4,140839.9,53.3,200.0,25.3,Alluvial,101.9
+2020,Maharashtra,Cotton,Rabi,1629.8,2477.3,1.52,709.2,37.9,Red,168.9
+2013,Uttar Pradesh,Maize,Whole Year,3617.6,8754.6,2.42,1114.6,18.6,Laterite,78.6
+2019,Punjab,Cotton,Rabi,2487.9,5174.8,2.08,784.2,28.9,Alluvial,186.7
+2012,Gujarat,Wheat,Kharif,697.9,2679.9,3.84,779.7,19.0,Black,119.8
+2014,Uttar Pradesh,Maize,Summer,1894.3,3788.6,2.0,306.3,35.6,Red,58.3
+2014,Gujarat,Cotton,Summer,480.1,849.8,1.77,860.9,31.3,Alluvial,122.7
+2021,Maharashtra,Sugarcane,Rabi,1150.0,66343.5,57.69,823.2,21.8,Laterite,100.6
+2020,Uttar Pradesh,Sugarcane,Kharif,810.5,58226.3,71.84,1341.1,25.6,Black,77.1
+2019,Haryana,Rice,Summer,1094.0,3238.2,2.96,665.9,29.1,Alluvial,100.8
+2021,Madhya Pradesh,Wheat,Whole Year,270.0,1584.9,5.87,994.1,27.9,Black,227.8
+2020,Karnataka,Wheat,Whole Year,240.2,1049.7,4.37,657.2,29.1,Red,161.6
+2015,Madhya Pradesh,Barley,Kharif,1416.3,3682.4,2.6,305.8,24.7,Alluvial,109.6
+2023,Haryana,Barley,Whole Year,1368.7,3982.9,2.91,753.0,23.5,Alluvial,168.9
+2020,Uttar Pradesh,Groundnut,Kharif,362.7,834.2,2.3,759.6,25.4,Loamy,104.0
+2018,Karnataka,Maize,Rabi,2025.0,6075.0,3.0,893.5,30.6,Alluvial,119.7
+2019,Punjab,Barley,Rabi,2099.1,6549.2,3.12,1160.5,26.1,Red,88.2
+2017,Tamil Nadu,Cotton,Kharif,179.8,343.4,1.91,565.2,27.7,Black,217.4
+2018,Gujarat,Wheat,Rabi,324.2,1202.8,3.71,499.9,27.5,Loamy,99.6
+2019,Punjab,Rice,Kharif,4153.2,16446.7,3.96,1172.1,28.6,Red,100.4
+2014,Punjab,Maize,Rabi,325.8,1159.8,3.56,871.6,25.8,Laterite,160.9
+2014,Maharashtra,Rice,Rabi,766.7,3181.8,4.15,948.6,24.6,Laterite,130.1
+2019,Haryana,Sugarcane,Kharif,1264.1,101937.0,80.64,1293.1,24.7,Black,128.8
+2012,Tamil Nadu,Soybean,Kharif,1568.2,3403.0,2.17,,30.2,Alluvial,151.2
+2018,Karnataka,Maize,Rabi,1377.0,4819.5,3.5,1079.0,31.4,Red,179.7
+2016,Karnataka,Sugarcane,Kharif,1121.8,73264.8,65.31,725.8,28.2,Alluvial,143.1
+2015,Punjab,Wheat,Rabi,1099.3,6870.6,6.25,1414.3,22.3,Loamy,231.1
+2022,Madhya Pradesh,Cotton,Kharif,736.3,1244.3,1.69,1196.5,31.0,Black,62.9
+2022,Karnataka,Maize,Rabi,127.4,458.6,3.6,920.0,21.4,Black,205.6
+2015,Uttar Pradesh,Cotton,Summer,409.3,597.6,1.46,699.3,32.4,Laterite,98.0
+2019,Punjab,Soybean,Kharif,2425.3,3953.2,1.63,454.1,32.9,Red,92.1
+2020,Punjab,Wheat,Whole Year,150.1,472.8,3.15,461.1,14.0,Laterite,125.6
+2018,Uttar Pradesh,Maize,Rabi,458.7,1357.8,2.96,1109.7,23.4,Alluvial,88.3
+2020,Tamil Nadu,Rice,Kharif,204.1,826.6,4.05,782.8,21.5,Laterite,210.1
+2012,Uttar Pradesh,Soybean,Whole Year,2341.0,4752.2,2.03,841.8,24.1,Red,95.1
+2012,Haryana,Soybean,Rabi,3068.4,5983.4,1.95,1161.5,17.2,Laterite,108.0
+2021,Uttar Pradesh,Soybean,Summer,539.3,1105.6,2.05,865.9,30.8,Black,162.8
+2019,Uttar Pradesh,Soybean,Whole Year,508.1,1148.3,2.26,874.7,25.9,Loamy,137.5
+2015,Uttar Pradesh,Wheat,Summer,2097.2,7403.1,3.53,426.7,22.4,Red,128.1
+2014,Uttar Pradesh,Sugarcane,Summer,816.3,35133.6,43.04,432.6,34.4,Loamy,76.5
+2016,Tamil Nadu,Soybean,Summer,471.8,1174.8,2.49,1146.3,23.5,Laterite,153.2
+2021,Karnataka,Wheat,Summer,1094.7,4378.8,4.0,921.1,26.7,Alluvial,73.3
+2020,Karnataka,Rice,Kharif,576.8,1782.3,3.09,694.3,24.6,Black,74.9
+2021,Karnataka,Maize,Rabi,2755.7,8625.3,3.13,442.6,29.0,Loamy,190.2
+2022,Maharashtra,Soybean,Rabi,3787.3,7650.3,2.02,1255.1,33.6,Loamy,84.9
+2013,Maharashtra,Wheat,Summer,522.3,2272.0,4.35,979.4,23.2,Black,126.5
+2015,Uttar Pradesh,Sugarcane,Summer,1734.5,100496.9,57.94,606.0,31.2,Red,86.8
+2021,Karnataka,Barley,Kharif,710.2,2393.4,3.37,706.1,27.0,Alluvial,209.6
+2020,Haryana,Wheat,Kharif,1023.4,4083.4,3.99,588.5,18.5,Alluvial,146.9
+2023,Uttar Pradesh,Maize,Rabi,244.1,585.8,2.4,578.1,30.7,Loamy,58.3
+2021,Punjab,Maize,Kharif,2234.7,6637.1,2.97,904.4,35.3,Alluvial,144.2
+2013,Karnataka,Sugarcane,Summer,151.8,9844.2,64.85,468.4,26.2,Alluvial,148.6
+2019,Tamil Nadu,Sugarcane,Kharif,2748.4,204728.3,74.49,1132.3,26.1,Red,103.7
+2023,Karnataka,Rice,Whole Year,668.1,1964.2,2.94,589.4,32.3,Red,110.9
+2013,Madhya Pradesh,Rice,Kharif,1029.7,2903.8,2.82,200.0,29.8,Alluvial,112.4
+2013,Karnataka,Wheat,Whole Year,3203.4,13966.8,4.36,720.7,32.8,Loamy,200.5
+2018,Punjab,Soybean,Rabi,628.6,1558.9,2.48,1284.4,27.3,Alluvial,119.7
+2020,Madhya Pradesh,Wheat,Rabi,4799.6,20062.3,4.18,965.0,25.4,Loamy,86.6
+2023,Maharashtra,Sugarcane,Kharif,1525.6,114862.4,75.29,1096.1,25.5,Red,118.3
+2022,Tamil Nadu,Rice,Summer,292.3,1207.2,4.13,1134.5,25.0,Laterite,141.6
+2020,Haryana,Maize,Kharif,5315.6,16159.4,3.04,988.8,23.7,Black,102.6
+2021,Punjab,Rice,Whole Year,8513.7,26647.9,3.13,425.2,27.3,Laterite,55.9
+2019,Gujarat,Maize,Whole Year,168.1,364.8,2.17,288.6,22.5,Loamy,113.7
+2019,Madhya Pradesh,Wheat,Rabi,107.6,418.6,3.89,881.3,27.5,Alluvial,86.2
+2013,Maharashtra,Maize,Summer,1082.6,3377.7,3.12,720.6,27.5,Black,119.4
+2019,Uttar Pradesh,Sugarcane,Rabi,1204.9,74511.0,61.84,986.2,35.6,Red,134.3
+2022,Gujarat,Groundnut,Summer,1809.8,4777.9,2.64,951.4,29.7,Alluvial,137.6
+2018,Uttar Pradesh,Soybean,Rabi,101.7,250.2,2.46,1110.1,26.1,Laterite,128.0
+2023,Karnataka,Wheat,Kharif,1607.7,6607.6,4.11,897.8,26.7,Loamy,72.4
+2018,Maharashtra,Groundnut,Whole Year,4133.0,11407.1,2.76,984.5,26.7,Red,162.3
+2015,Karnataka,Sugarcane,Summer,1409.0,91430.0,64.89,803.4,24.7,Laterite,107.3
+2013,Karnataka,Rice,Rabi,2307.2,7752.2,3.36,941.8,24.1,Red,115.4
+2013,Tamil Nadu,Wheat,Rabi,474.2,2086.5,4.4,542.5,25.7,Black,142.7
+2017,Tamil Nadu,Wheat,Rabi,660.8,3066.1,4.64,957.7,27.6,Laterite,108.0
+2014,Madhya Pradesh,Wheat,Rabi,1061.4,5052.3,4.76,868.6,25.5,Black,153.3
+2012,Madhya Pradesh,Groundnut,Rabi,5240.3,12314.7,2.35,1256.6,15.3,Alluvial,138.0
+2018,Karnataka,Cotton,Whole Year,1114.7,1805.8,1.62,943.7,23.1,Alluvial,72.5
+2016,Karnataka,Soybean,Rabi,855.1,1573.4,1.84,486.6,35.3,Loamy,188.7
+2020,Tamil Nadu,Soybean,Rabi,266.3,567.2,2.13,943.0,28.7,Red,119.2
+2015,Madhya Pradesh,Rice,Kharif,229.2,971.8,4.24,1145.9,23.5,Laterite,155.8
+2017,Madhya Pradesh,Sugarcane,Rabi,375.0,26928.8,71.81,1299.4,29.4,Black,100.0
+2014,Gujarat,Rice,Whole Year,632.5,2599.6,4.11,902.6,30.5,Loamy,171.7
+2023,Gujarat,Cotton,Summer,2649.8,4610.7,1.74,705.1,31.4,Black,124.0
+2023,Tamil Nadu,Wheat,Whole Year,2438.8,9194.3,3.77,757.6,27.4,Alluvial,83.9
+2013,Gujarat,Soybean,Whole Year,874.4,1573.9,1.8,976.5,17.5,Laterite,90.5
+2018,Maharashtra,Sugarcane,Rabi,931.4,77520.4,83.23,1122.8,26.0,Alluvial,152.7
+2023,Madhya Pradesh,Cotton,Summer,3200.4,4864.6,1.52,459.5,35.5,Laterite,116.3
+2014,Madhya Pradesh,Wheat,Rabi,1597.7,7413.3,4.64,1050.1,27.3,Black,138.7
+2019,Punjab,Soybean,Whole Year,1178.1,2462.2,2.09,1264.2,19.6,Black,71.5
+2020,Maharashtra,Sugarcane,Rabi,767.6,53417.3,69.59,985.9,24.8,Loamy,147.0
+2022,Tamil Nadu,Wheat,Rabi,857.9,3757.6,4.38,631.5,19.2,Alluvial,180.1
+2021,Tamil Nadu,Soybean,Whole Year,529.0,989.2,1.87,326.2,27.6,Red,110.9
+2017,Madhya Pradesh,Maize,Kharif,2557.3,8464.7,3.31,1061.8,32.0,Alluvial,162.5
+2022,Tamil Nadu,Cotton,Whole Year,4237.6,7331.0,1.73,768.3,24.0,Laterite,121.7
+2017,Punjab,Sugarcane,Whole Year,1080.6,69126.0,63.97,897.7,22.5,Red,89.2
+2020,Uttar Pradesh,Maize,Rabi,1106.6,3552.2,3.21,1079.1,28.1,Black,154.9
+2015,Karnataka,Cotton,Summer,979.8,1597.1,1.63,615.4,29.4,Loamy,129.7
+2012,Tamil Nadu,Sugarcane,Rabi,1368.1,83700.4,61.18,842.3,35.5,Black,153.7
+2015,Uttar Pradesh,Cotton,Summer,1680.0,2755.2,1.64,580.8,29.5,Alluvial,81.9
+2013,Karnataka,Wheat,Summer,611.0,2114.1,3.46,446.6,30.7,Black,108.3
+2017,Madhya Pradesh,Maize,Rabi,2497.8,8517.5,3.41,1147.4,21.0,Loamy,140.9
+2019,Maharashtra,Maize,Whole Year,1511.8,4807.5,3.18,1094.9,20.5,Alluvial,158.8
+2020,Maharashtra,Soybean,Whole Year,1426.7,2667.9,1.87,1115.9,36.6,Laterite,109.4
+2013,Karnataka,Groundnut,Rabi,1078.5,2264.8,2.1,287.7,23.4,Black,122.1
+2023,Maharashtra,Sugarcane,Rabi,852.2,50399.1,59.14,872.4,21.2,Alluvial,114.8
+2023,Karnataka,Soybean,Rabi,193.2,446.3,2.31,1039.7,27.8,Black,123.6
+2013,Maharashtra,Sugarcane,Rabi,4080.5,313545.6,76.84,947.6,21.5,Red,191.7
+2015,Uttar Pradesh,Cotton,Summer,3042.9,4290.5,1.41,670.8,33.5,Black,82.9
+2021,Maharashtra,Soybean,Whole Year,1221.4,2564.9,2.1,644.3,25.8,Alluvial,103.8
+2017,Uttar Pradesh,Soybean,Kharif,771.2,1696.6,2.2,1181.3,28.4,Loamy,82.9
+2021,Gujarat,Wheat,Summer,1769.5,7272.6,4.11,635.7,21.7,Alluvial,144.2
+2021,Haryana,Rice,Whole Year,3079.4,12410.0,4.03,1405.7,20.9,Laterite,138.4
+2014,Maharashtra,Soybean,Kharif,1453.9,2486.2,1.71,1091.0,36.4,Loamy,100.5
+2018,Punjab,Barley,Rabi,1868.6,4877.0,2.61,649.1,33.9,Red,178.7
+2015,Gujarat,Soybean,Summer,234.3,445.2,1.9,992.2,33.8,Red,106.7
+2019,Madhya Pradesh,Rice,Whole Year,2774.5,8406.7,3.03,490.7,21.0,Alluvial,84.2
+2016,Maharashtra,Cotton,Summer,1015.6,1696.1,1.67,1007.8,19.5,Red,81.7
+2013,Karnataka,Barley,Rabi,4992.1,11232.2,2.25,362.2,23.7,Laterite,91.1
+2018,Tamil Nadu,Sugarcane,Whole Year,740.6,52382.6,70.73,621.3,26.9,Alluvial,175.4
+2018,Gujarat,Cotton,Summer,1204.0,2299.6,1.91,576.9,25.1,Red,162.5
+2016,Karnataka,Barley,Rabi,769.8,1963.0,2.55,975.9,29.1,Alluvial,82.5
+2020,Haryana,Sugarcane,Whole Year,3199.3,245706.2,76.8,1177.5,26.7,Alluvial,126.8
+2017,Uttar Pradesh,Barley,Rabi,1263.9,2199.2,1.74,351.5,32.0,Red,32.0
+2017,Uttar Pradesh,Sugarcane,Rabi,134.7,8662.6,64.31,759.7,24.5,Black,100.9
+2015,Haryana,Maize,Whole Year,664.7,2293.2,3.45,1028.1,27.0,Black,94.7
+2015,Karnataka,Soybean,Kharif,205.9,331.5,1.61,218.6,26.8,Loamy,107.0
+2023,Madhya Pradesh,Wheat,Kharif,3232.5,14287.6,4.42,747.0,27.9,Laterite,143.0
+2022,Madhya Pradesh,Sugarcane,Whole Year,189.9,13384.2,70.48,1232.7,32.0,Loamy,112.5
+2018,Haryana,Maize,Kharif,259.8,727.4,2.8,709.1,24.7,Alluvial,107.1
+2015,Gujarat,Groundnut,Summer,386.3,749.4,1.94,531.4,29.3,Alluvial,94.4
+2016,Madhya Pradesh,Cotton,Rabi,902.0,1371.0,1.52,817.9,31.0,Black,102.3
+2017,Tamil Nadu,Barley,Kharif,1813.7,5332.3,2.94,791.8,21.8,Loamy,133.5
+2016,Tamil Nadu,Groundnut,Kharif,563.6,1296.3,2.3,954.1,31.3,Alluvial,115.7
+2018,Tamil Nadu,Maize,Kharif,1528.2,4966.7,3.25,752.6,29.0,Laterite,158.2
+2021,Karnataka,Sugarcane,Rabi,540.9,32156.5,59.45,682.7,31.2,Loamy,98.8
+2019,Haryana,Wheat,Rabi,1618.7,8757.2,5.41,1389.3,23.8,Laterite,146.0
+2014,Punjab,Soybean,Summer,267.0,632.8,2.37,698.9,26.2,Loamy,158.3
+2019,Maharashtra,Rice,Summer,1724.3,5638.5,3.27,513.2,22.1,Loamy,162.0
+2016,Uttar Pradesh,Cotton,Whole Year,229.3,451.7,1.97,1163.8,27.3,Black,115.6
+2020,Madhya Pradesh,Groundnut,Kharif,2335.0,5090.3,2.18,536.9,24.2,Alluvial,129.8
+2021,Punjab,Rice,Rabi,1409.9,4596.3,3.26,689.1,30.7,Black,122.0
+2013,Gujarat,Soybean,Summer,968.1,1626.4,1.68,758.8,22.7,Laterite,83.4
+2015,Haryana,Rice,Rabi,605.1,2317.5,3.83,794.7,25.3,Laterite,130.8
+2023,Karnataka,Groundnut,Whole Year,2867.7,7312.6,2.55,808.2,27.8,Alluvial,111.3
+2022,Karnataka,Groundnut,Whole Year,2052.6,5172.6,2.52,1131.2,22.9,Laterite,130.3
+2022,Maharashtra,Wheat,Kharif,900.2,3519.8,3.91,846.7,28.9,Laterite,105.2
+2017,Maharashtra,Sugarcane,Kharif,2247.7,175927.5,78.27,1302.8,29.3,Red,131.5
+2019,Gujarat,Soybean,Rabi,442.3,1070.4,2.42,1057.1,22.3,Black,165.1
+2022,Maharashtra,Wheat,Summer,2926.3,13080.6,4.47,603.2,33.2,Red,177.4
+2020,Karnataka,Wheat,Summer,647.1,2484.9,3.84,,28.4,Alluvial,88.9
+2015,Uttar Pradesh,Groundnut,Kharif,322.4,812.4,2.52,1240.9,20.9,Black,96.3
+2021,Maharashtra,Barley,Rabi,1642.2,4121.9,2.51,468.6,32.2,Loamy,100.7
+2018,Maharashtra,Groundnut,Summer,1482.5,4358.6,2.94,789.0,27.0,Black,207.9
+2014,Madhya Pradesh,Cotton,Whole Year,2431.1,4959.4,2.04,807.5,24.5,Alluvial,144.4
+2015,Uttar Pradesh,Groundnut,Summer,196.9,445.0,2.26,940.3,23.9,Loamy,97.7
+2020,Uttar Pradesh,Cotton,Whole Year,2410.2,4844.5,2.01,897.5,29.1,,185.2
+2022,Tamil Nadu,Maize,Rabi,1424.6,4686.9,3.29,925.9,20.3,Laterite,145.1
+2014,Punjab,Barley,Whole Year,2534.1,8033.1,3.17,1108.2,25.6,Loamy,107.1
+2017,Gujarat,Wheat,Kharif,3938.6,15518.1,3.94,728.3,27.1,Laterite,110.4
+2021,Madhya Pradesh,Rice,Kharif,530.6,1729.8,3.26,605.9,22.5,Laterite,132.4
+2020,Gujarat,Groundnut,Rabi,894.2,2092.4,2.34,,26.4,Black,123.6
+2019,Karnataka,Soybean,Whole Year,2739.2,5588.0,2.04,584.2,27.1,Black,111.0
+2016,Gujarat,Groundnut,Rabi,5463.6,11910.6,2.18,572.4,29.1,Alluvial,73.3
+2020,Madhya Pradesh,Groundnut,Kharif,6007.3,15979.4,2.66,644.2,25.8,Loamy,136.4
+2022,Haryana,Sugarcane,Summer,1019.6,65386.9,64.13,894.1,24.8,Black,91.0
+2013,Haryana,Rice,Kharif,615.0,2183.2,3.55,568.9,29.4,Loamy,177.1
+2022,Gujarat,Soybean,Rabi,548.9,1130.7,2.06,688.2,26.2,Laterite,98.0
+2015,Haryana,Cotton,Whole Year,1000.1,1660.2,1.66,488.5,26.9,Laterite,107.4
+2013,Madhya Pradesh,Wheat,Rabi,1133.2,4974.7,4.39,834.7,23.2,Alluvial,122.9
+2022,Tamil Nadu,Barley,Summer,2461.5,6670.7,2.71,1177.4,23.9,Alluvial,55.9
+2019,Maharashtra,Cotton,Kharif,1525.8,1876.7,1.23,200.0,31.3,Alluvial,77.0
+2022,Uttar Pradesh,Sugarcane,Whole Year,347.5,23282.5,67.0,713.4,24.2,Black,130.4
+2020,Karnataka,Cotton,Rabi,6313.1,10669.1,1.69,856.1,32.9,Red,117.2
+2015,Karnataka,Sugarcane,Kharif,144.7,8570.6,59.23,634.5,28.1,Black,98.9
+2014,Haryana,Cotton,Rabi,1958.1,4112.0,2.1,934.6,25.2,Loamy,125.9
+2023,Punjab,Cotton,Whole Year,712.4,1196.8,1.68,319.5,23.8,Black,165.4
+2019,Gujarat,Wheat,Kharif,2118.7,9979.1,4.71,910.9,24.4,Laterite,150.0
+2018,Haryana,Wheat,Whole Year,5902.4,21425.7,3.63,470.4,32.1,Alluvial,116.4
+2013,Punjab,Maize,Summer,2821.4,8915.6,3.16,1148.7,21.5,Loamy,105.9
+2015,Gujarat,Soybean,Whole Year,2260.5,4430.6,1.96,766.0,28.4,Red,99.2
+2023,Karnataka,Sugarcane,Summer,100.3,7598.7,75.76,1020.9,23.8,Laterite,150.1
+2016,Uttar Pradesh,Maize,Rabi,2120.1,4855.0,2.29,306.8,30.3,Laterite,101.3
+2014,Karnataka,Wheat,Whole Year,1328.7,6085.4,4.58,1060.9,28.7,Alluvial,121.4
+2014,Tamil Nadu,Cotton,Kharif,118.7,186.4,1.57,941.8,34.8,Laterite,112.2
+2016,Madhya Pradesh,Groundnut,Kharif,3442.6,8537.6,2.48,586.6,21.7,Red,153.3
+2012,Tamil Nadu,Soybean,Whole Year,1377.7,2631.4,1.91,710.5,18.9,Loamy,149.8
+2016,Maharashtra,Sugarcane,Summer,3267.7,222530.4,68.1,618.2,27.6,Laterite,154.1
+2017,Gujarat,Rice,Kharif,978.8,4336.1,4.43,1218.5,24.9,Laterite,151.0
+2020,Maharashtra,Groundnut,Whole Year,828.0,1647.7,1.99,596.4,30.0,Laterite,86.2
+2013,Uttar Pradesh,Sugarcane,Rabi,104.4,6480.1,62.07,798.1,18.6,Laterite,151.7
+2022,Madhya Pradesh,Sugarcane,Rabi,1515.4,84650.2,55.86,742.7,23.4,Black,70.8
+2017,Madhya Pradesh,Sugarcane,Summer,965.8,61009.6,63.17,924.5,27.8,Alluvial,109.2
+2017,Karnataka,Groundnut,Rabi,281.3,652.6,2.32,810.0,29.5,Red,127.5
+2018,Uttar Pradesh,Maize,Whole Year,921.8,3023.5,3.28,1325.3,26.2,Alluvial,95.2
+2016,Gujarat,Cotton,Summer,4719.8,9109.2,1.93,1060.4,21.3,Loamy,156.8
+2018,Gujarat,Sugarcane,Kharif,2516.8,181360.6,72.06,1052.7,28.9,Red,148.7
+2023,Haryana,Cotton,Kharif,2178.5,3594.5,1.65,1079.9,27.0,Red,61.4
+2021,Tamil Nadu,Wheat,Kharif,3203.6,14095.8,4.4,1144.0,18.7,Alluvial,127.2
+2013,Karnataka,Cotton,Whole Year,993.6,2315.1,2.33,1170.5,27.0,Loamy,131.1
+2016,Maharashtra,Soybean,Whole Year,1684.6,3756.7,2.23,890.0,21.9,Black,164.3
+2013,Maharashtra,Cotton,Rabi,1438.4,2833.6,1.97,665.3,25.7,Red,159.1
+2014,Haryana,Cotton,Summer,1478.5,2114.3,1.43,395.2,23.4,Red,55.8
+2019,Madhya Pradesh,Cotton,Kharif,1192.4,2205.9,1.85,962.2,21.9,Black,114.6
+2022,Madhya Pradesh,Wheat,Whole Year,780.2,3276.8,4.2,429.1,22.9,Red,153.8
+2015,Gujarat,Cotton,Summer,3998.2,6717.0,1.68,571.3,26.9,Alluvial,116.0
+2017,Haryana,Maize,Whole Year,285.2,781.4,2.74,785.3,33.7,Black,139.6
+2018,Madhya Pradesh,Wheat,Kharif,1500.5,6287.1,4.19,881.4,26.4,Red,89.8
+2017,Madhya Pradesh,Barley,Kharif,2252.6,7433.6,3.3,551.5,27.1,Loamy,180.6
+2021,Tamil Nadu,Maize,Whole Year,1797.0,5211.3,2.9,985.7,30.3,Red,121.1
+2014,Madhya Pradesh,Sugarcane,Whole Year,2387.6,149368.3,62.56,923.3,21.2,Laterite,101.7
+2019,Madhya Pradesh,Maize,Rabi,1068.1,2787.7,2.61,542.6,28.7,Alluvial,103.7
+2016,Karnataka,Cotton,Whole Year,2154.8,3016.7,1.4,427.9,31.6,Red,100.9
+2019,Madhya Pradesh,Soybean,Kharif,1090.8,2585.2,2.37,1005.4,24.8,Alluvial,133.2
+2015,Karnataka,Groundnut,Whole Year,1173.9,2676.5,2.28,623.6,23.6,Black,99.2
+2014,Uttar Pradesh,Rice,Rabi,1442.6,5424.2,3.76,823.4,30.8,Alluvial,193.9
+2019,Maharashtra,Soybean,Whole Year,1577.6,2839.7,1.8,801.3,31.6,Alluvial,140.8
+2017,Tamil Nadu,Soybean,Summer,633.7,1337.1,2.11,1131.0,30.8,Black,92.9
+2019,Madhya Pradesh,Groundnut,Rabi,1603.2,3398.8,2.12,902.9,34.3,Alluvial,115.7
+2023,Maharashtra,Soybean,Kharif,239.2,583.6,2.44,1147.2,29.7,Loamy,132.3
+2017,Haryana,Rice,Rabi,1894.8,7295.0,3.85,967.6,18.1,Laterite,158.4
+2017,Maharashtra,Sugarcane,Whole Year,1941.8,143887.4,74.1,734.2,25.5,Red,170.9
+2019,Haryana,Cotton,Rabi,4072.4,7004.5,1.72,600.5,23.1,Black,150.6
+2018,Tamil Nadu,Barley,Whole Year,1487.6,3912.4,2.63,464.8,25.9,Loamy,122.8
+2017,Uttar Pradesh,Sugarcane,Kharif,2684.2,186256.6,69.39,999.5,22.7,Alluvial,115.2
+2013,Madhya Pradesh,Barley,Summer,1201.5,3880.8,3.23,1060.8,29.0,Black,128.3
+2023,Uttar Pradesh,Sugarcane,Whole Year,183.8,10700.8,58.22,391.7,26.4,Black,131.7
+2012,Punjab,Cotton,Whole Year,197.1,362.7,1.84,693.5,26.6,Alluvial,153.4
+2023,Gujarat,Wheat,Kharif,572.9,1993.7,3.48,635.4,31.6,Loamy,110.4
+2015,Haryana,Maize,Summer,285.0,723.9,2.54,380.1,21.1,Laterite,126.5
+2023,Haryana,Soybean,Kharif,5174.2,13246.0,2.56,1205.7,30.7,Alluvial,153.8
+2020,Uttar Pradesh,Cotton,Kharif,174.1,348.2,2.0,695.6,25.1,Laterite,141.6
+2020,Karnataka,Sugarcane,Summer,104.3,7452.2,71.45,600.9,26.2,Laterite,164.5
+2016,Punjab,Soybean,Kharif,1058.8,2361.1,2.23,931.7,27.9,Black,141.8
+2018,Karnataka,Groundnut,Kharif,2112.5,4267.2,2.02,461.6,30.2,Laterite,133.2
+2016,Karnataka,Cotton,Summer,165.9,237.2,1.43,764.1,35.3,Laterite,91.7
+2016,Punjab,Sugarcane,Kharif,1118.5,75621.8,67.61,1035.2,24.2,Black,112.0
+2017,Karnataka,Soybean,Kharif,1010.2,2464.9,2.44,1078.5,22.2,Laterite,169.4
+2021,Tamil Nadu,Groundnut,Kharif,787.7,1748.7,2.22,907.9,31.4,Laterite,113.3
+2020,Karnataka,Sugarcane,Whole Year,102.0,5139.8,50.39,875.5,33.5,Loamy,76.6
+2018,Maharashtra,Maize,Summer,1497.7,5047.2,3.37,938.9,30.0,Loamy,164.2
+2015,Gujarat,Groundnut,Kharif,1062.0,2718.7,2.56,924.5,29.0,Red,125.3
+2015,Tamil Nadu,Cotton,Summer,483.1,908.2,1.88,984.3,26.7,Black,112.8
+2021,Tamil Nadu,Cotton,Rabi,368.5,670.7,1.82,734.9,30.4,Alluvial,151.6
+2015,Uttar Pradesh,Maize,Kharif,1856.8,5756.1,3.1,1160.8,22.5,Alluvial,95.3
+2015,Punjab,Wheat,Rabi,1141.5,3344.6,2.93,641.2,35.9,Loamy,63.7
+2021,Karnataka,Sugarcane,Kharif,1084.7,72599.0,66.93,807.5,20.6,Black,158.1
+2012,Uttar Pradesh,Sugarcane,Summer,961.7,53239.7,55.36,742.7,29.1,Alluvial,64.1
+2021,Tamil Nadu,Maize,Whole Year,4683.1,12269.7,2.62,644.4,32.4,Black,90.7
+2021,Tamil Nadu,Wheat,Summer,1747.6,9070.0,5.19,1301.1,25.6,Loamy,145.2
+2017,Madhya Pradesh,Maize,Summer,809.8,2526.6,3.12,926.5,31.2,Black,136.2
+2016,Haryana,Cotton,Whole Year,250.4,448.2,1.79,676.1,21.6,Red,136.4
+2014,Uttar Pradesh,Sugarcane,Kharif,242.7,22452.2,92.51,1724.0,19.9,Loamy,199.0
+2018,Uttar Pradesh,Barley,Whole Year,1345.4,3027.2,2.25,383.4,31.0,Alluvial,96.0
+2013,Haryana,Maize,Summer,482.1,1494.5,3.1,971.8,29.5,Alluvial,135.4
+2019,Maharashtra,Cotton,Summer,753.2,1129.8,1.5,987.3,38.4,Red,91.8
+2019,Tamil Nadu,Soybean,Whole Year,542.2,1160.3,2.14,1205.1,24.1,Black,70.3
+2020,Uttar Pradesh,Groundnut,Summer,249.8,544.6,2.18,498.6,22.3,Laterite,116.2
+2015,Gujarat,Maize,Whole Year,3229.8,9721.7,3.01,1109.3,29.8,Loamy,86.7
+2018,Maharashtra,Soybean,Summer,1439.0,3683.8,2.56,808.2,29.5,Laterite,178.4
+2020,Karnataka,Cotton,Rabi,2131.6,3346.6,1.57,578.2,21.6,Loamy,143.8
+2013,Maharashtra,Sugarcane,Whole Year,11639.3,655409.0,56.31,636.5,22.3,Black,107.4
+2017,Tamil Nadu,Cotton,Summer,1953.3,3730.8,1.91,,30.9,Loamy,123.0
+2012,Haryana,Maize,Whole Year,2234.5,6882.3,3.08,1012.6,19.7,Alluvial,156.8
+2014,Punjab,Barley,Kharif,1979.4,6670.6,3.37,1001.7,25.7,Alluvial,138.7
+2018,Karnataka,Maize,Kharif,1741.1,4631.3,2.66,745.6,30.7,Black,107.1
+2023,Uttar Pradesh,Sugarcane,Kharif,1088.1,50368.1,46.29,672.7,34.9,Alluvial,54.2
+2013,Gujarat,Cotton,Summer,253.9,540.8,2.13,914.0,25.0,Laterite,157.6
+2017,Uttar Pradesh,Groundnut,Kharif,2001.2,5143.1,2.57,975.2,26.7,Red,120.2
+2014,Gujarat,Barley,Kharif,3176.7,7369.9,2.32,600.9,25.2,Red,80.9
+2013,Punjab,Maize,Kharif,753.0,2010.5,2.67,867.4,23.6,Red,84.9
+2020,Karnataka,Rice,Kharif,231.5,706.1,3.05,916.2,30.8,Loamy,94.5
+2022,Uttar Pradesh,Rice,Rabi,1769.7,6477.1,3.66,811.0,24.0,Loamy,125.6
+2017,Tamil Nadu,Soybean,Rabi,263.3,626.7,2.38,956.1,25.7,Red,134.2
+2016,Maharashtra,Wheat,Summer,215.4,840.1,3.9,935.3,20.7,Alluvial,123.4
+2014,Haryana,Maize,Rabi,1488.1,4136.9,2.78,619.5,22.0,Alluvial,127.3
+2022,Uttar Pradesh,Soybean,Kharif,1309.1,2958.6,2.26,1291.4,23.7,Laterite,89.0
+2017,Haryana,Sugarcane,Rabi,662.9,49518.6,74.7,1052.8,21.3,Red,148.7
+2015,Uttar Pradesh,Cotton,Summer,1911.7,3555.8,1.86,987.9,28.0,Black,133.7
+2012,Maharashtra,Rice,Summer,473.6,1965.4,4.15,1005.3,25.8,Alluvial,144.5
+2017,Maharashtra,Rice,Rabi,3789.7,14097.7,3.72,844.1,25.7,Black,127.9
+2022,Tamil Nadu,Cotton,Whole Year,1977.9,3500.9,1.77,1287.4,32.7,Laterite,74.8
+2018,Tamil Nadu,Groundnut,Kharif,929.5,2351.6,2.53,831.5,25.4,Loamy,111.4
+2013,Haryana,Barley,Kharif,1120.3,2733.5,2.44,480.5,21.4,Red,110.5
+2021,Maharashtra,Soybean,Summer,446.4,879.4,1.97,430.8,26.9,Red,106.2
+2023,Punjab,Maize,Whole Year,1008.7,3792.7,3.76,1052.6,25.3,Alluvial,158.7
+2023,Haryana,Sugarcane,Whole Year,2398.6,132282.8,55.15,849.5,32.2,Red,79.6
+2021,Haryana,Wheat,Whole Year,267.1,1191.3,4.46,677.4,26.5,Red,147.8
+2020,Uttar Pradesh,Soybean,Rabi,3301.7,6735.5,2.04,675.2,24.3,Black,139.0
+2014,Tamil Nadu,Sugarcane,Summer,2135.3,118381.0,55.44,824.0,30.0,Red,63.2
+2018,Madhya Pradesh,Wheat,Summer,801.5,3967.4,4.95,1003.9,24.0,Alluvial,139.9
+2012,Tamil Nadu,Wheat,Summer,423.3,1985.3,4.69,792.6,22.7,Alluvial,126.1
+2023,Maharashtra,Barley,Rabi,362.2,1177.1,3.25,955.0,29.2,Alluvial,192.0
+2018,Tamil Nadu,Sugarcane,Kharif,2436.9,192027.7,78.8,1248.7,24.4,Laterite,123.4
+2012,Karnataka,Barley,Rabi,289.1,1087.0,3.76,1243.1,23.9,Alluvial,159.2
+2017,Madhya Pradesh,Wheat,Whole Year,1267.7,3866.5,3.05,1105.3,35.9,,64.5
+2012,Gujarat,Wheat,Whole Year,133.6,649.3,4.86,695.5,21.7,Black,198.3
+2016,Maharashtra,Soybean,Summer,446.5,915.3,2.05,766.1,22.9,Alluvial,135.2
+2018,Haryana,Sugarcane,Kharif,886.7,59373.4,66.96,984.3,32.5,Red,134.7
+2023,Maharashtra,Sugarcane,Whole Year,1038.4,77319.3,74.46,937.5,29.1,Black,156.8
+2023,Gujarat,Barley,Kharif,2996.3,8209.9,2.74,1124.1,23.7,Red,73.8
+2016,Tamil Nadu,Sugarcane,Whole Year,2138.5,137505.5,64.3,1289.4,21.7,Red,73.2
+2012,Madhya Pradesh,Soybean,Summer,8907.8,19240.8,2.16,801.5,23.5,Alluvial,109.7
+2014,Haryana,Maize,Kharif,803.8,2974.1,3.7,887.8,25.2,Red,174.1
+2022,Madhya Pradesh,Cotton,Whole Year,800.8,1473.5,1.84,804.2,29.4,Black,131.1
+2019,Madhya Pradesh,Soybean,Rabi,2384.6,5436.9,2.28,666.5,26.9,Loamy,136.0
+2015,Karnataka,Sugarcane,Whole Year,379.3,28845.8,76.05,952.4,22.6,Black,169.1
+2021,Tamil Nadu,Rice,Summer,3399.1,14718.1,4.33,899.3,27.9,Loamy,179.5
+2023,Maharashtra,Sugarcane,Rabi,664.9,47872.8,72.0,1302.3,25.5,Black,90.3
+2023,Maharashtra,Groundnut,Whole Year,315.2,974.0,3.09,1085.6,30.4,Black,192.7
+2012,Haryana,Maize,Whole Year,1617.4,5111.0,3.16,1081.7,21.6,Black,123.4
+2016,Karnataka,Rice,Kharif,1726.9,4938.9,2.86,596.7,29.7,Laterite,66.6
+2021,Tamil Nadu,Soybean,Summer,550.8,936.4,1.7,612.6,33.0,Laterite,103.9
+2016,Maharashtra,Barley,Kharif,436.7,1388.7,3.18,1095.0,28.1,Red,107.6
+2018,Gujarat,Groundnut,Whole Year,249.6,541.6,2.17,732.7,29.4,Loamy,95.2
+2022,Madhya Pradesh,Cotton,Whole Year,309.0,568.6,1.84,942.2,27.9,Loamy,116.6
+2014,Uttar Pradesh,Cotton,Whole Year,123.8,221.6,1.79,802.3,26.3,Loamy,111.7
+2012,Karnataka,Soybean,Summer,3097.4,7743.5,2.5,946.7,31.4,Black,190.4
+2014,Uttar Pradesh,Wheat,Kharif,1462.7,6289.6,4.3,1292.2,24.3,Laterite,72.6
+2018,Uttar Pradesh,Groundnut,Rabi,1122.3,2065.0,1.84,1229.2,32.6,Black,31.9
+2017,Punjab,Barley,Rabi,1797.6,5698.4,3.17,701.9,27.1,Laterite,188.4
+2016,Gujarat,Wheat,Whole Year,208.5,888.2,4.26,720.2,27.2,Red,126.2
+2012,Uttar Pradesh,Barley,Kharif,2824.4,9377.0,3.32,990.7,22.5,Laterite,189.5
+2012,Haryana,Barley,Summer,4963.2,16080.8,3.24,1238.5,30.3,Black,134.5
+2013,Madhya Pradesh,Maize,Summer,1447.8,3967.0,2.74,436.3,28.9,Black,125.3
+2019,Uttar Pradesh,Groundnut,Rabi,1462.4,3597.5,2.46,901.7,29.8,Laterite,148.4
+2016,Maharashtra,Groundnut,Whole Year,465.5,1145.1,2.46,912.0,27.4,Red,111.1
+2019,Tamil Nadu,Rice,Whole Year,1759.9,4628.5,2.63,761.5,22.6,Alluvial,49.5
+2022,Karnataka,Wheat,Kharif,185.2,648.2,3.5,751.0,32.7,Red,116.6
+2016,Haryana,Groundnut,Summer,472.1,1227.5,2.6,933.4,26.6,Laterite,139.0
+2012,Madhya Pradesh,Groundnut,Rabi,219.3,473.7,2.16,511.4,22.0,Laterite,127.0
+2018,Tamil Nadu,Groundnut,Summer,2375.0,5225.0,2.2,1062.8,33.3,Black,117.3
+2023,Karnataka,Groundnut,Summer,648.9,1336.7,2.06,826.1,18.5,Red,117.2
+2019,Tamil Nadu,Rice,Rabi,7300.5,22850.6,3.13,563.6,24.2,Loamy,142.0
+2012,Tamil Nadu,Rice,Rabi,1330.0,5639.2,4.24,854.1,24.9,Loamy,193.7
+2014,Uttar Pradesh,Barley,Summer,1181.9,3380.2,2.86,773.9,27.6,Alluvial,95.0
+2012,Maharashtra,Groundnut,Kharif,1652.4,4213.6,2.55,915.5,20.9,Alluvial,107.7
+2022,Madhya Pradesh,Cotton,Whole Year,470.2,757.0,1.61,904.2,21.6,Alluvial,99.4
+2017,Karnataka,Sugarcane,Rabi,2497.2,155700.4,62.35,866.9,28.5,Loamy,107.7
+2019,Madhya Pradesh,Soybean,Kharif,1946.9,4069.0,2.09,572.0,27.9,Red,129.8
+2017,Maharashtra,Barley,Rabi,171.7,403.5,2.35,1215.6,33.4,Laterite,34.6
+2023,Gujarat,Cotton,Whole Year,380.4,833.1,2.19,1489.9,28.3,Red,124.3
+2023,Haryana,Soybean,Summer,1512.4,2540.8,1.68,343.3,31.5,Alluvial,147.3
